@@ -56,12 +56,3 @@ This script, named **DealValidation**, is designed to interact with the Pipedriv
    - The script is organized into sections for better readability and maintenance.
    - Sections include importing packages, defining API details, creating functions, setting up database tables, and more.
 
-## Execution
-
-8. **Execution:**
-   - Save the script as a Python file (e.g., `deal_validation_script.py`).
-   - Open a terminal and navigate to the script's directory.
-   - Run the script using `python deal_validation_script.py`.
-
-Note:
-
